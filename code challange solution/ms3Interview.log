@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-03-26T15:30:09</date>
+  <millis>1553632209972</millis>
+  <sequence>0</sequence>
+  <logger>demo.darsh.ms3.Customer</logger>
+  <level>CONFIG</level>
+  <class>demo.darsh.ms3.Customer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2019-03-26T15:30:09</date>
+  <millis>1553632209978</millis>
+  <sequence>1</sequence>
+  <logger>demo.darsh.ms3.Customer</logger>
+  <level>INFO</level>
+  <class>demo.darsh.ms3.Customer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>=====&gt;&gt; good data: 4862</message>
+</record>
+<record>
+  <date>2019-03-26T15:30:09</date>
+  <millis>1553632209984</millis>
+  <sequence>2</sequence>
+  <logger>demo.darsh.ms3.Customer</logger>
+  <level>INFO</level>
+  <class>demo.darsh.ms3.Customer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>=====&gt;&gt; bad data: 1139</message>
+</record>
+<record>
+  <date>2019-03-26T15:30:09</date>
+  <millis>1553632209984</millis>
+  <sequence>3</sequence>
+  <logger>demo.darsh.ms3.Customer</logger>
+  <level>INFO</level>
+  <class>demo.darsh.ms3.Customer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>=====&gt;&gt; recieved data: 6001</message>
+</record>
+</log>
